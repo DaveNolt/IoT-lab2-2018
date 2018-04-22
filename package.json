@@ -1,0 +1,23 @@
+{
+  "name": "iot-lab2-2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveNolt/IoT-lab2-2018.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaveNolt/IoT-lab2-2018/issues"
+  },
+  "homepage": "https://github.com/DaveNolt/IoT-lab2-2018#readme",
+  "dependencies": {
+    "amqplib": "^0.5.2",
+    "mqtt": "^2.15.3"
+  }
+}
